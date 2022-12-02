@@ -133,4 +133,4 @@ function PANEL:SetText(text)
 	self:SetTall(self.height)
 end
 
-vgui.Register("mWrappedText", PANEL, "DPanel")
+vgui.Register("mWrappedText", PANEL, "Panel")
